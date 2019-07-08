@@ -3,4 +3,4 @@ Projeto de estudo com objetivo de converter xlsx para inserts sql utilizando nod
 
 ## Como usar
 
-node .\index.js <TABELA> <PATH PARA XLSX>
+node .\index.js \<TABELA\> \<PATH PARA XLSX\>
