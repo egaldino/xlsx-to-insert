@@ -1,0 +1,22 @@
+{
+  "name": "xlsx-to-insert",
+  "version": "1.0.0",
+  "description": "Projeto de estudo com objetivo de converter xlsx para inserts sql utilizando nodejs",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/egaldino/xlsx-to-insert.git"
+  },
+  "author": "Edson Galdino",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/egaldino/xlsx-to-insert/issues"
+  },
+  "homepage": "https://github.com/egaldino/xlsx-to-insert#readme",
+  "dependencies": {
+    "read-excel-file": "^4.0.1"
+  }
+}
