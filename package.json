@@ -17,6 +17,6 @@
   },
   "homepage": "https://github.com/egaldino/xlsx-to-insert#readme",
   "dependencies": {
-    "read-excel-file": "^4.0.1"
+    "read-excel-file": "^5.5.0"
   }
 }
